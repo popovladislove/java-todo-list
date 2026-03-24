@@ -28,7 +28,9 @@
 
 ## Структура проекта
 ```text
-src/
- └── Main.java
-tasks.txt
-README.md
+java-todo-list/
+├── src/
+│   ├── Main.java
+│   └── Task.java
+├── tasks.txt
+└── README.md
